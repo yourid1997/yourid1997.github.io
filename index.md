@@ -15,7 +15,7 @@
 
 ### Data Science & Marketing Analytics projects
 
-- [Project 1 Title](http://example.com/)
+- [Master thesis Text Analytics Amazon reviews](/pdf/presentation thesis defense.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
