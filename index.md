@@ -16,12 +16,13 @@
 ### Msc. Data Science & Marketing Analytics projects
 
 - [Master thesis](/pdf/presentation thesis defense.pdf)
-•	Thesis Subject: Text analytics on google Chromecast product reviews.
+Thesis Subject: Text analytics on google Chromecast product reviews.
 <br>
 - [Business case Unilever](/pdf/Presentation Unilever.pdf)
-Worked in a small team on an Unilever business case for two months. 
-We obtained stakeholder requirements, analyzed their data and ran machine learning models to segment customers. 
-The case required practical recommendations, which trained me to translate technical model language to interpretable business improvements.
+<br>
+Worked in a small team on an Unilever business case for two months. <br>
+We obtained stakeholder requirements, analyzed their data and ran machine learning models to segment customers. <br>
+The case required practical recommendations, which trained me to translate technical model language to interpretable business improvements. <br>
 
 ### Msc. Marketing Management projects
 
