@@ -16,7 +16,8 @@
 ### Data Science & Marketing Analytics projects
 
 - [Master thesis Text Analytics Amazon reviews](/pdf/presentation thesis defense.pdf)
-- [Project 2 Title](http://example.com/)
+View the link for thesis defense presentation.
+- [Pricing assignment Swapfiets](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
