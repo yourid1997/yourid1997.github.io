@@ -2,11 +2,13 @@ title: Youri Dullens # your name (or website title) here
 logo: "/images/MAEUR portretfoto.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   My name is Youri Dullens, 23 years old from Rotterdam. <br>
-  I'm mainly interested in the Data Science field. <br>
-  I enjoy to challenge myself in solving complicated problems. <br>
+  I'm mainly interested in the Data Science field. I enjoy to challenge myself in solving complicated problems. <br>
   This page provides an overview of the projects I conducted during my studies or in free time. <br>
     <br><br>
   
+  
   <a href="https://www.linkedin.com/in/youri-dullens/">View My LinkedIn Profile</a> 
+      <br><br>
+
   
 theme: jekyll-theme-minimal
