@@ -14,9 +14,21 @@
 ---
 
 ### Msc. Data Science & Marketing Analytics projects
+You can click-through the blue links to see the project's presentation.
+<br>
+- [Master thesis text analytics](/pdf/presentation thesis defense.pdf) <br>
+<br>
+Thesis Subject: Text analytics on google Chromecast product reviews. <br>
+I applied natural language processing on the text in Google Chromecast reviews to discover what product features make customers satisfied or dissatisfied. <br>
+I measured satisfaction with review rating. I split the review text into words, such that each word becomes a separate variable in the dataset. <br>
+I performed logistic regression (supervised learning) to predict what features differentiate between satisfied and dissatisfied customers. <br>
+I also performed topic modelling, with Latent Dirichlet Allocation (unsupervised learning), to find groups of words that could give information why a customer is (dis)satisfied with the Chromecast. <br>
+<br>
+My insights could help managers in three ways: <br>
+1. to dynamically improve insights of customer preferences, as the input data could constantly add new customer reviews. <br>
+2. Information about what product features need improvement in updates. <br>
+2. Use the topics to segment the customers based on how they perceive the product or service. <br>
 
-- [Master thesis](/pdf/presentation thesis defense.pdf)
-Thesis Subject: Text analytics on google Chromecast product reviews.
 <br>
 - [Business case Unilever](/pdf/Presentation Unilever.pdf)
 <br>
