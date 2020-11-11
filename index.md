@@ -5,7 +5,7 @@
 ### Extracurricular projects
 You can click-through the blue links to see the project's presentation.
 <br>
-[Artificial Intelligence Marketing project in Python] <br>
+#### Artificial Intelligence Marketing project in Python <br>
 The goal of this project is to use AI and Machine Learning to perform customer segmentation. <br>
 I started with data exploration to identify missing values, errors. I also visualised interesting patterns and how the variables correlate. <br>
 Moreover, I performed data cleaning, scaled the variables and changed some variables such that the models can use them as input. <br>
@@ -15,10 +15,8 @@ In addition, I performed Principal Component Analysis (PCA) for dimensionality r
 I really enjoyed to dive into the data and learn more ways to clean and prepare data for analysis. <br>
 Furthermore, I enjoyed to improve my programming skills in Python. <br>
 Lastly, I really enjoyed to learn about data visualisation packages 'Seaborn' and 'Plotly'. <br>
----
 
 ### Msc. Data Science & Marketing Analytics projects
-You can click-through the blue links to see the project's presentation.
 <br>
 - [Master thesis text analytics](/pdf/presentation thesis defense.pdf) <br>
 Thesis Subject: Text analytics on google Chromecast product reviews. <br>
@@ -31,7 +29,6 @@ My insights could help managers in three ways: <br>
 1. to dynamically improve insights of customer preferences, as the input data could constantly add new customer reviews. <br>
 2. Information about what product features need improvement in updates. <br>
 2. Use the topics to segment the customers based on how they perceive the product or service. <br>
-
 <br>
 - [Business case Unilever](/pdf/Presentation Unilever.pdf)
 Worked in a small team on an Unilever business case for two months. <br>
