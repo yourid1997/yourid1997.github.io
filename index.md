@@ -38,13 +38,14 @@ The case required practical recommendations, which trained me to translate techn
 
 ### Msc. Marketing Management projects
 
-- [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf)
-Worked in a team to identify pricing improvements for bike company Swapfiets.
-We first collected data about Swapfiets' current subscription price model and compared this with competitor prices of new- and second hand bikes.
-We then visualized the data using Tableau and concluded with practical recommendations.
-I had an analytical role in the team. I mainly focused on thinking what data we needed to collect as input for insightfull graphs. I also focused on the recommendations.
+- [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf) <br>
+<br>
+Worked in a team to identify pricing improvements for bike company Swapfiets. <br>
+We first collected data about Swapfiets' current subscription price model and compared this with competitor prices of new- and second hand bikes. <br>
+We then visualized the data using Tableau and concluded with practical recommendations. <br>
+I had an analytical role in the team. I mainly focused on thinking what data we needed to collect as input for insightfull graphs. I also focused on the recommendations. <br>
 My most outstanding recommendation was a model where clients pay a lower monthly fee, based on the consequtive months the user didn't have any damage to the bike.
-This would result in lower repair cost and lower monthly fee. 
+This would result in lower repair cost and lower monthly fee. <br>
 
 
 - [Project 3 Title](http://example.com/)
