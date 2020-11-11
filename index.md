@@ -3,21 +3,24 @@
 ---
 
 ### Extracurricular projects
-
-[Artificial Intelligence Marketing application](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Github Data Science challenge Fraud jobs](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+You can click-through the blue links to see the project's presentation.
+<br>
+[Artificial Intelligence Marketing project in Python] <br>
+The goal of this project is to use AI and Machine Learning to perform customer segmentation. <br>
+I started with data exploration to identify missing values, errors. I also visualised interesting patterns and how the variables correlate. <br>
+Moreover, I performed data cleaning, scaled the variables and changed some variables such that the models can use them as input. <br>
+I used the K-means clustering algorithm to segment customers into separate groups. The means of clusters enabled me to describe characteristics of each cluster. <br>
+In addition, I performed Principal Component Analysis (PCA) for dimensionality reduction. PCA serves as more information to describe the clusters. <br>
+<br>
+I really enjoyed to dive into the data and learn more ways to clean and prepare data for analysis. <br>
+Furthermore, I enjoyed to improve my programming skills in Python. <br>
+Lastly, I really enjoyed to learn about data visualisation packages 'Seaborn' and 'Plotly'. <br>
 ---
 
 ### Msc. Data Science & Marketing Analytics projects
 You can click-through the blue links to see the project's presentation.
 <br>
 - [Master thesis text analytics](/pdf/presentation thesis defense.pdf) <br>
-<br>
 Thesis Subject: Text analytics on google Chromecast product reviews. <br>
 I applied natural language processing on the text in Google Chromecast reviews to discover what product features make customers satisfied or dissatisfied. <br>
 I measured satisfaction with review rating. I split the review text into words, such that each word becomes a separate variable in the dataset. <br>
@@ -31,7 +34,6 @@ My insights could help managers in three ways: <br>
 
 <br>
 - [Business case Unilever](/pdf/Presentation Unilever.pdf)
-<br>
 Worked in a small team on an Unilever business case for two months. <br>
 We obtained stakeholder requirements, analyzed their data and ran machine learning models to segment customers. <br>
 The case required practical recommendations, which trained me to translate technical model language to interpretable business improvements. <br>
@@ -39,23 +41,12 @@ The case required practical recommendations, which trained me to translate techn
 ### Msc. Marketing Management projects
 
 - [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf) <br>
-<br>
 Worked in a team to identify pricing improvements for bike company Swapfiets. <br>
 We first collected data about Swapfiets' current subscription price model and compared this with competitor prices of new- and second hand bikes. <br>
 We then visualized the data using Tableau and concluded with practical recommendations. <br>
 I had an analytical role in the team. I mainly focused on thinking what data we needed to collect as input for insightfull graphs. I also focused on the recommendations. <br>
 My most outstanding recommendation was a model where clients pay a lower monthly fee, based on the consequtive months the user didn't have any damage to the bike.
 This would result in lower repair cost and lower monthly fee. <br>
-
-
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
