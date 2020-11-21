@@ -53,7 +53,7 @@ There were two interesting conclusions: <br>
 1. Individuals with more involvement in the purchase decision tend to have higher likelihood of customer retention.
 2. The effect of a negative purchase experience on customer retention is more negative for low involved customers compared to high involved customers. This effect become clearer with the help of data visualization in Tableau as shown below. <br>
 
-<img src="images/rsm master thesis interaction effect.jpg?raw=true"/> <br>
+<img src="images/rsm master thesis interaction effect .jpg?raw=true"/> <br>
 
 My insights could help managers in three ways: <br>
 
