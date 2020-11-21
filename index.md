@@ -40,6 +40,7 @@ You can click-through the blue links to see the project's presentation.
 <br>
 - [Master thesis customer retention](/pdf/thesis defense presentation.pdf) <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Customer decision journey.jpg?raw=true"/>
 Thesis Subject: Influence of purchase decision involvement on customer retention. <br>
 
 
