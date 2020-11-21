@@ -3,7 +3,6 @@
 ---
 
 ### Extracurricular projects
-You can click-through the blue links to see the project's presentation.
 <br>
 #### Artificial Intelligence Marketing project in Python <br>
 The goal of this project is to use AI and Machine Learning to perform customer segmentation. <br>
@@ -17,6 +16,7 @@ Furthermore, I enjoyed to improve my programming skills in Python. <br>
 Lastly, I really enjoyed to learn about data visualisation packages 'Seaborn' and 'Plotly'. <br>
 
 ### Msc. Data Science & Marketing Analytics projects
+You can click-through the blue links to see the project's presentation.
 <br>
 - [Master thesis text analytics](/pdf/presentation thesis defense.pdf) <br>
 Thesis Subject: Text analytics on google Chromecast product reviews. <br>
@@ -36,7 +36,12 @@ We obtained stakeholder requirements, analyzed their data and ran machine learni
 The case required practical recommendations, which trained me to translate technical model language to interpretable business improvements. <br>
 
 ### Msc. Marketing Management projects
-
+You can click-through the blue links to see the project's presentation.
+<br>
+- [Master thesis customer retention](/pdf/thesis defense presentation.pdf) <br>
+Thesis Subject: Influence of purchase decision involvement on customer retention. <br>
+My thesis focused on the customer decision journey
+I found that the more interest and concern a consumer brings to bear upon a purchase decision task the higher its likelihood to retain to the particular brand
 - [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf) <br>
 Worked in a team to identify pricing improvements for bike company Swapfiets. <br>
 We first collected data about Swapfiets' current subscription price model and compared this with competitor prices of new- and second hand bikes. <br>
