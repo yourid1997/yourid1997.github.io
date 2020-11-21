@@ -19,6 +19,7 @@ Lastly, I really enjoyed to learn about data visualisation packages 'Seaborn' an
 You can click-through the blue links to see the project's presentation.
 <br>
 - [Master thesis text analytics](/pdf/presentation thesis defense.pdf) <br>
+
 Thesis Subject: Text analytics on google Chromecast product reviews. <br>
 I applied natural language processing on the text in Google Chromecast reviews to discover what product features make customers satisfied or dissatisfied. <br>
 I measured satisfaction with review rating. I split the review text into words, such that each word becomes a separate variable in the dataset. <br>
@@ -61,9 +62,6 @@ My insights could help managers in three ways: <br>
 3. Help with purposefull targeting. I would target relatively high involved individuals,when the focus is on a relatively small highly engaged/loyal customer base
 I would target relatively low involved individuals, when the focus is on a relatively large customer base at the cost of less brand engagement. <br>
 
-
-
-I found that the more interest and concern a consumer brings to bear upon a purchase decision task the higher its likelihood to retain to the particular brand
 - [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf) <br>
 Worked in a team to identify pricing improvements for bike company Swapfiets. <br>
 We first collected data about Swapfiets' current subscription price model and compared this with competitor prices of new- and second hand bikes. <br>
