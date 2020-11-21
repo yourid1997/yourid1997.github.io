@@ -42,7 +42,7 @@ You can click-through the blue links to see the project's presentation.
 
 Thesis Subject: Influence of purchase decision involvement on customer retention. <br>
 
-<img src="images/Customer decision journey.jpg?raw=true"/>
+<img src="images/Customer decision journey.jpg?raw=true"/> <br>
 The thesis was all about the customer decision journey presented in the above image.
 The goal was to enlarge literature focusing on why customers tend to retain to their previously bought brand. <br>
 This could help brand managers with targeting strategies for their retention campaigns. <br>
@@ -51,9 +51,12 @@ I also measured whether purchase decision involvement influences the relation be
 The next step was to test these hypotheses with data analysis. For this, I desigend a survey, created questions and collected responses. <br>
 There were two interesting conclusions: <br>
 1. Individuals with more involvement in the purchase decision tend to have higher likelihood of customer retention.
-2. The effect of a negative purchase experience on customer retention is more negative for low involved customers compared to high involved customers. 
-- I found the second conclusion with the help of data visualization in Tableau. Below is the outcome of that analysis. 
-<img src="images/rsm master thesis interaction effect.jpg?raw=true"/> 
+2. The effect of a negative purchase experience on customer retention is more negative for low involved customers compared to high involved customers. This effect become clearer with the help of data visualization in Tableau as shown below. <br>
+
+<img src="images/rsm master thesis interaction effect.jpg?raw=true"/> <br>
+
+My insights could help managers in three ways: <br>
+
 I found that the more interest and concern a consumer brings to bear upon a purchase decision task the higher its likelihood to retain to the particular brand
 - [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf) <br>
 Worked in a team to identify pricing improvements for bike company Swapfiets. <br>
