@@ -39,10 +39,10 @@ The case required practical recommendations, which trained me to translate techn
 You can click-through the blue links to see the project's presentation.
 <br>
 - [Master thesis customer retention](/pdf/thesis defense presentation.pdf) <br>
-<img src="/images/customer decision journey.jpeg?raw=true"/> <br>
-"/images/Customer decision journey.jpg"
-![ScreenShot](/images/Customer decision journey.jpg)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 Thesis Subject: Influence of purchase decision involvement on customer retention. <br>
+
+
 My thesis focused on the customer decision journey
 I found that the more interest and concern a consumer brings to bear upon a purchase decision task the higher its likelihood to retain to the particular brand
 - [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf) <br>
