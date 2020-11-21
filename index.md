@@ -28,7 +28,7 @@ I also performed topic modelling, with Latent Dirichlet Allocation (unsupervised
 My insights could help managers in three ways: <br>
 1. to dynamically improve insights of customer preferences, as the input data could constantly add new customer reviews. <br>
 2. Information about what product features need improvement in updates. <br>
-2. Use the topics to segment the customers based on how they perceive the product or service. <br>
+3. Use the topics to segment the customers based on how they perceive the product or service. <br>
 <br>
 - [Business case Unilever](/pdf/Presentation Unilever.pdf)
 Worked in a small team on an Unilever business case for two months. <br>
@@ -39,13 +39,21 @@ The case required practical recommendations, which trained me to translate techn
 You can click-through the blue links to see the project's presentation.
 <br>
 - [Master thesis customer retention](/pdf/thesis defense presentation.pdf) <br>
-<img src="images/Customer decision journey.jpg?raw=true"/>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 Thesis Subject: Influence of purchase decision involvement on customer retention. <br>
 
-
-My thesis focused on the customer decision journey
+<img src="images/Customer decision journey.jpg?raw=true"/>
+The thesis was all about the customer decision journey presented in the above image.
+The goal was to enlarge literature focusing on why customers tend to retain to their previously bought brand. <br>
+This could help brand managers with targeting strategies for their retention campaigns. <br>
+I investigated whether an individuals purchase decision involvement, which is the level of interest and concern during the product purchase, influences the likelihood to retain to the brand next purchase. <br>
+I also measured whether purchase decision involvement influences the relation between a negative purchase experience and customer retention. I expected that individuals with lower involvement tend to be influenced more by a negative experience in terms of their likelihood to retain to the brand. 
+The next step was to test these hypotheses with data analysis. For this, I desigend a survey, created questions and collected responses. <br>
+There were two interesting conclusions: <br>
+1. Individuals with more involvement in the purchase decision tend to have higher likelihood of customer retention.
+2. The effect of a negative purchase experience on customer retention is more negative for low involved customers compared to high involved customers. 
+- I found the second conclusion with the help of data visualization in Tableau. Below is the outcome of that analysis. 
+<img src="images/rsm master thesis interaction effect.jpg?raw=true"/> 
 I found that the more interest and concern a consumer brings to bear upon a purchase decision task the higher its likelihood to retain to the particular brand
 - [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf) <br>
 Worked in a team to identify pricing improvements for bike company Swapfiets. <br>
