@@ -56,6 +56,12 @@ There were two interesting conclusions: <br>
 <img src="images/rsm master thesis interaction effect .jpg?raw=true"/> <br>
 
 My insights could help managers in three ways: <br>
+1. Get to know their customers better, by measuring their customer's purchase decision involvement in data collection. For example, they could use purchase decision involvement as extra information to perform customer segmentation. <br>
+2. I would target relatively low involved customers for retention campaigns, when resources are limited. This is because this group's beliefs about and attitudes towards a brand are more likely to be affected by a retention campaign. <br>
+3. Help with purposefull targeting. I would target relatively high involved individuals,when the focus is on a relatively small highly engaged/loyal customer base
+I would target relatively low involved individuals, when the focus is on a relatively large customer base at the cost of less brand engagement. <br>
+
+
 
 I found that the more interest and concern a consumer brings to bear upon a purchase decision task the higher its likelihood to retain to the particular brand
 - [Pricing assignment Swapfiets](/pdf/Pricing Group Presentation.pdf) <br>
